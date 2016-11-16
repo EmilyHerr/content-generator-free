@@ -47,7 +47,7 @@ function wdac_admin_actions() {
 function wdac_admin() {
     ?>
     <div class="wrap">
-        <h2>Content Randomizer FREE</h2>
+        <h2>Content Randomizer FREE (v1.0)</h2>
         
         <div style="text-align:left;">
             <p>This plugin randomly shuffles content around in an article using a simple short code to create dynamic articles and pages that change on each visit.</p>
