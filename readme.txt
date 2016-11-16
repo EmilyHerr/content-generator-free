@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 4.4.1
 Stable tag: trunk
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.htmlasdf
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin randomly shuffles content around in an article using a simple short code to create dynamic articles and pages that change on each visit.
 
